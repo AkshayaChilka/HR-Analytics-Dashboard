@@ -49,7 +49,7 @@ The dashboard provides interactive insights into employee turnover, department-w
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/https://1drv.ms/i/c/0d989c84e27d22d8/IQBforMWK16vQrmBdU1QNYLUAemy-qfF5Mzai6JEHdwZAdg?e=KBRkPH)
+![Dashboard](screenshots/Screenshot 2026-05-25 184219.png)
 
 ---
 
